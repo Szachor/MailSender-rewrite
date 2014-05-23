@@ -14,7 +14,7 @@ namespace MailSender
             this.Name = name;
         }
 
-        public string Email { get; set; }k
+        public string Email { get; set; }
 
         public string Name { get; set; }
     }
